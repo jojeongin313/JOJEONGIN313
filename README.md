@@ -23,11 +23,6 @@
 </div>
 
 
-## 🏆 My Trophies 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jojeongin313&theme=gruvbox)
-
-
-
 ## 🔥 My GitHub Streak 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jojeongin313&theme=dark&hide_border=true)
 
