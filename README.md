@@ -11,19 +11,6 @@
 </div>
 
 
-
-##  🌱 학업 내용
-### 이번 학기에 배우고 있는 과목
-- **📊 데이터분석입문:** 데이터 시각화 및 분석의 기초
-- **🛠️ 오픈소스소프트웨어:** 오픈소스 기술 활용 및 관리
-- **🌐 웹서버프로그래밍:** 클라이언트-서버 기반 웹 개발
-- **💾 데이터베이스:** 데이터 모델링 및 SQL
-- **💻 자바스크립트:** 동적 웹 인터페이스 제작
-- **🧠 인공신경망:** 머신러닝 및 딥러닝 기초 <br>
-( 오소소 깃허브 : https://github.com/ai7dnn/2024-OSS  |  https://tinyurl.com/2024-OSS)<br>
-( 데분입 깃허브 : https://github.com/ai7dnn/2024-intro-DA  |  https://tinyurl.com/intro-DA)<br>
----
-
 ## 💻 사용 가능한 언어
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -50,9 +37,6 @@
 
 ## 📭 기타 정보
 - **💌 연락처:** jojeongin313@gmail.com  
-- **🎨 취미:** Web Design, 사진촬영, 영화시청
-
-  
 ---
 
 
